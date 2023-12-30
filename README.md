@@ -4,6 +4,6 @@
 
 ![Alipay](alipay.jpg)
 
-## Wechat Pay
+## WeChat Pay
 
-![Wechat Pay](alipay.jpg)
+![WeChat Pay](wechat.png)
